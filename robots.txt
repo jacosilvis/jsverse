@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jacosilvis.github.io/jsverse/sitemap.xml
